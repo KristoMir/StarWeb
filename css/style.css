@@ -1,0 +1,318 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#head{
+	width: 980px;
+	height: 100%;
+	margin: 0 auto;
+	background: #2F2E2E no-repeat;
+}
+html{
+	background-image: url(../img/star-wars-backgrounds-25.jpg);
+	background-repeat: round;
+	background-attachment: fixed;
+}
+
+body{
+	margin: 0;
+	position: absolute;
+	left: 460px;
+}
+
+body > div{
+	background-color: #232323;
+	font-family: arial;
+	color: #605E5E;
+	width: 980px;
+}
+#osnova{
+	border-bottom: 5px solid #A0A09F;
+}
+#list ul{
+	list-style-type: none;
+	margin-top: 30px;
+	width: 100%;
+}
+
+#list li{
+	display: inline-block;
+}
+#list > ul div{
+	margin: 0;
+}
+ #nav{
+font-size: 15px;
+ }
+#list button{
+	border: none;
+	border-radius: 0;
+	padding-left: 129px;
+	padding-right: 129px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	margin-top: 4px;
+	background-color: #2F2E2E;
+	color: #444;
+	border: none;
+}
+#list button:hover{
+	color: #605E5E;
+	background-color: #adadad;
+	cursor: pointer;
+	transition: 1s;
+	border: none;
+}
+
+body > div > div{
+	margin: px;
+}
+
+
+.Twitter{
+	width: 25px;
+	margin-right: 10%;
+	margin-top: 35px;
+	float: right;
+	display: inline-block;
+}
+h1 > a{
+	text-decoration: none;
+	color: #E99F86;
+}
+h1{
+	font-family: Arial Black;
+	font-size: 40px;
+}
+#h1{
+	display: inline-block;
+	width: 30%;
+	margin-top: 20px;
+}
+
+a{
+	text-decoration: none;
+}
+.box{
+	background-color: rgba(47, 46, 46, 0.5);
+	border: 1px solid #2F2E2E;
+	border-radius: 5px;
+	width: 230px;
+	height: 245px;
+	font-family: DIN Next Light;
+	display: inline-block;
+	float: right;
+	margin-right: 50px;
+	margin-top: 50px;
+
+}
+.start-text-box {
+	color: #FF4040;
+	font-size: 22px;
+	text-align: center;
+	font-weight: bold;
+	width: 165px;
+	height: 96px;
+	font-family: Arial Black;
+	position: relative;
+	left: 34px;
+}
+.start-text{
+	font-family: DIN Next Light;
+	font-size: 22px;
+	color: #fff;
+	width: 195px;
+	height: 108px;
+	text-align: center;
+	margin-left: 15px;
+}
+.absaz_1{
+	color: #605E5E;
+	font-family: Arial;
+	font-size: 17px;
+	text-indent: 80px;
+	display: inline-block;
+	width: 635px;
+	padding-bottom: 25px;
+}
+dt{
+	color: #605E5E;
+	font-family: Arial;
+	font-size: 17px;
+
+}
+.figure_1{
+	display: block;
+	float: left;
+	width: 601px;
+	margin-right: 2px;
+	margin-bottom: 55px;
+}
+.Lucas_Disney{
+	width: 601px;
+	height: 339px;
+	border: 1px solid #605E5E;
+}
+.figcaption_1{
+	display: block;
+	color: #F3E598;
+	font-size: 14px;
+	text-align: center;
+}
+.absaz_2{
+	color: #605E5E;
+	font-family: Arial;
+	font-size: 17px;
+	text-indent: 80px;
+	display: inline-block;
+	width: 350px;
+	height: 480px;
+	float: right;
+}
+
+.tril{
+	margin: 15px;
+	font-size: 20px;
+	font-family: Arial;
+	background: #2F2E2E;
+	color: #605E5E;
+	font-style: bold;
+}
+
+section ol{
+	color: #605E5E;
+	font-family: Arial;
+	font-size: 15px;
+}
+
+.h2_2{
+	color: #DE5021;
+	font-family: Arial Black;
+	font-size: 35px;
+}
+section{
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+
+.h2_3{
+	color: #2B7C74;
+	font-family: Arial Black;
+	font-size: 34px;
+}
+.h2_chronolog{
+	font-size: 27px;
+	font-family: Arial Black;
+	font-style: bold;
+	color: #BAE9FF;
+}
+.figure_2{
+	margin-top: 60px;
+	margin: 45px;
+	display: block;
+	text-align: center;
+}
+.figcaption_2{
+	color: #F3E598;
+	font-size: 14px;
+	text-align: center;
+}
+.ser{
+	width: 765px;
+}
+.absaz_3, .absaz_4, .absaz_5{
+	font-size: 17px;
+	text-indent: 80px;
+}
+.absaz_5{
+	padding-bottom: 20px;
+}
+.h{
+	font-size: 40px;
+	color: #E99F86;
+	font-family: Arial Black;
+	font-style: italic;
+	font-weight: bold;
+}
+.h2_1{
+	font-size: 30px;
+	font-family: Arial Black;
+	font-weight: bold;
+	color: #F4C0AF;
+}
+
+ol{
+	margin-left: 25px;
+}
+footer{
+	padding-top: 10px;
+	margin-left: 20px;
+}
+
+footer > p{
+	color: #fff;
+	font-family: DIN Next Light;
+	font-size: 14px;
+}
+#text{
+	font-family: DIN Next Light;
+}
+#text-1{
+	font-size: 25px;
+	padding-top: 40px;
+	text-align: center;
+	padding-right: 85%;
+	border-bottom: 1px solid #cdcdcd;
+}
+#text-2{
+	font-size: 15px;
+	width: 565px;
+	margin-left: 225px;
+	margin-top: 20px;
+}
+#text-3{
+	font-size: 25px;
+	padding-top: 40px;
+	text-align: center;
+	padding-right: 85%;
+	border-bottom: 1px solid #cdcdcd;
+}
+#text-4{
+	font-family: Arial Black;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 22px;
+	margin-top: 30px;
+	text-align: center;
+}
+#text-5{
+	text-align: center;
+	font-family: Arial Black;
+	font-size: 15px;
+	margin-top: 30px;
+	padding-bottom: 330px;
+}
+#Twitter-last{
+	width: 25px;
+}
+#text2{
+	font-family: DIN Next Light;
+}
+.sup{
+	padding-top: 45px;
+	padding-left: 30px;
+	font-size: 25px;
+	border-bottom: 1px solid #cdcdcd;
+	padding-bottom: 15px;
+}
+.email{
+	padding-top: 12px;
+	padding-left: 30px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #cdcdcd;
+}
+.Twitter-last{
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 380px;
+}
